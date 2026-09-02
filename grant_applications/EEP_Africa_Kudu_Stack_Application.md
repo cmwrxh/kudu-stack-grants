@@ -1,6 +1,6 @@
 # EEP AFRICA — CALL FOR PROPOSALS 2026
 ## Kudu Stack: E-Waste Lifecycle Management for Clean Energy Infrastructure
-### Brilliant Unicorn LLC | Nairobi, Kenya | September 2026
+### Brilliant Unicorn Ltd | Nairobi, Kenya | September 2026
 
 ---
 
