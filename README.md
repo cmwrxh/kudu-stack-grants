@@ -1,5 +1,5 @@
 # KUDU STACK — Grant & Investment Repository
-## Private | Brilliant Unicorn LLC | Charles Mwaura
+## Private | Brilliant Unicorn Ltd | Charles Mwaura
 
 ---
 
