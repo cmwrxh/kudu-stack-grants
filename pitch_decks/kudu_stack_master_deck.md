@@ -1,6 +1,6 @@
 # KUDU STACK — MASTER PITCH DECK
 ## Automating Global Trust in Conservation, Carbon, and Energy
-### Brilliant Unicorn LLC | Nairobi, Kenya | September 2026
+### Brilliant Unicorn Ltd | Nairobi, Kenya | September 2026
 
 ---
 
