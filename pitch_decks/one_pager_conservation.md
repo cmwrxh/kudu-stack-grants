@@ -3,7 +3,7 @@
 
 ---
 
-**ORGANIZATION:** Brilliant Unicorn LLC  
+**ORGANIZATION:** Brilliant Unicorn Ltd 
 **FOUNDER:** Charles Mwaura  
 **LOCATION:** Nairobi, Kenya  
 **FOCUS:** Edge-AI Wildlife Telemetry + Carbon Sequestration Verification  
