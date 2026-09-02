@@ -1,6 +1,6 @@
 # AFR100 SUPPORT PROGRAMME — GRANT APPLICATION
 ## Kudu Biotech: Locally-Led Forest & Landscape Restoration Monitoring
-### Brilliant Unicorn LLC | Nairobi, Kenya | September 2026
+### Brilliant Unicorn Ltd | Nairobi, Kenya | September 2026
 
 ---
 
