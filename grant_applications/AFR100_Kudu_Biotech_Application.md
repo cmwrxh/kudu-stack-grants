@@ -6,15 +6,15 @@
 
 ## SECTION A: APPLICANT INFORMATION
 
-**Organization Name:** Brilliant Unicorn LLC  
-**Legal Registration:** [Pending / Registered in Kenya — insert number]  
+**Organization Name:** Brilliant Unicorn LTD 
+**Legal Registration:** PVT-A71MVMJB  
 **Country:** Kenya  
 **Primary Contact:** Charles Mwaura  
-**Email:** [Your email]  
-**Phone:** [Your phone]  
+**Email:** CHAMWAURA22@GMAIL.COM  
+**Phone:**  0797560284 
 **Website:** https://github.com/cmwrxh  
 **Years in Operation:** 1 (founded 2025)  
-**Annual Budget (Current):** $0 (pre-revenue, bootstrapped)  
+**Annual Budget (Current):** $10,000 (pre-revenue, bootstrapped)  
 **Requested Amount:** $45,000  
 **Project Duration:** 12 months  
 
@@ -151,7 +151,7 @@ AFR100 requires countries to report on restoration progress. Kenya's commitment 
 - 8 years systems engineering experience
 - Expertise: Rust, Python, distributed systems, edge AI
 - Built AlphaCore (high-performance infrastructure engine)
-- Direct access to conservancy networks via family connections in Narok County
+- Direct access to conservancy networks via family connections in Kajiado, Narok County
 
 **Advisory Board (Proposed):**
 - [Name], Kenya Wildlife Service (retired), wildlife conservation expert
@@ -187,4 +187,4 @@ AFR100 requires countries to report on restoration progress. Kenya's commitment 
 
 ---
 
-*AFR100 Application v1.0 | September 2026 | Brilliant Unicorn LLC*
+*AFR100 Application v1.0 | September 2026 | Brilliant Unicorn LTD*
