@@ -14,7 +14,7 @@ Kudu Stack directly addresses this mandate by providing **immutable tracking, pr
 
 ## SECTION 1: EXECUTIVE SUMMARY
 
-**Organization:** Brilliant Unicorn LLC  
+**Organization:** Brilliant Unicorn Ltd  
 **Country:** Kenya  
 **Focus Area:** E-waste management from clean energy sector  
 **Requested Amount:** EUR 200,000–350,000 (grant + repayable grant)  
@@ -261,4 +261,4 @@ Kenya's clean energy sector has grown explosively:
 
 ---
 
-*EEP Africa Application v1.0 | September 2026 | Brilliant Unicorn LLC*
+*EEP Africa Application v1.0 | September 2026 | Brilliant Unicorn LTD*
